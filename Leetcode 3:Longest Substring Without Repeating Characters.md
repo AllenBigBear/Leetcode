@@ -1,3 +1,6 @@
+**[原题地址](https://leetcode.com/problems/longest-substring-without-repeating-characters/)**
+
+
 ![](https://github.com/AllenBigBear/Leetcode/blob/master/Images%20for%20Leetcode/Leetcode3.jpg)
 
 >**题目要求如上，寻找字符串中长度最长的没有重复元素的子链
